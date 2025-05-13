@@ -4,7 +4,7 @@ The original version was part of a team project. This version only reflects my p
 
 # Multi-Agent AI System With RAG
 View the Result: [https://youtu.be/KbyVo1ZbzXU](https://youtu.be/KbyVo1ZbzXU)
-Too see more delicated visualized version, please check this page on notion: [https://highfalutin-biplane-60c.notion.site/Final-Project-Multi-Agent-AI-System-With-RAG-1bee583281774de5958bd9380dc6aa97]
+Too see more delicated visualized version, please check this page on notion: [Notion Link][https://highfalutin-biplane-60c.notion.site/Final-Project-Multi-Agent-AI-System-With-RAG-1bee583281774de5958bd9380dc6aa97]
 # Introduction
 
 ## Preface
