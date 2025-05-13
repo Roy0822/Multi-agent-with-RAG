@@ -1,10 +1,15 @@
+📌 Note:
+This repository was reuploaded and commit history reset for demonstration purposes.
+The original version was part of a team project. This version only reflects my personal copy and modifications.
+
 # Multi-Agent AI System With RAG
 View the Result: [https://youtu.be/KbyVo1ZbzXU](https://youtu.be/KbyVo1ZbzXU)
+Too see more delicated visualized version, please check this page on notion: [https://highfalutin-biplane-60c.notion.site/Final-Project-Multi-Agent-AI-System-With-RAG-1bee583281774de5958bd9380dc6aa97]
 # Introduction
 
 ## Preface
 
-In addition to the **Code** **Interview Solver (Leetcode)**, we have also utilized Multiagent and RAG to develop a **Paper Reading System (Arxiv Searching)** and a **High School Student Problem-Solving System**. However, to facilitate various experiments and present them in our report, we have chosen the **Code Interview Solver** as the benchmark and the main focus of our report. This is because, apart from the differences in the agent's character and the tools employed, the core techniques used are largely similar across all systems. Therefore, we will not elaborate on the other systems here; more information can be found on our [](https://github.com/yuhansun33/capstone_final_project_crewai)[**Github**](https://github.com/yarikama/CrewAI-RAG-----a-demo-of-leetcode-solver) and in the **Results** section.
+In addition to the **Code** **Interview Solver (Leetcode)**, we have also utilized Multiagent and RAG to develop a **Paper Reading System (Arxiv Searching)** and a **High School Student Problem-Solving System**. However, to facilitate various experiments and present them in our report, we have chosen the **Code Interview Solver** as the benchmark and the main focus of our report. This is because, apart from the differences in the agent's character and the tools employed, the core techniques used are largely similar across all systems. Therefore, we will not elaborate on the other systems here; more information can be found on our [**Github**](https://github.com/Roy0822/Multi-agent-with-RAG) and in the **Results** section.
 
 ## Motivation
 
@@ -449,10 +454,6 @@ Multiagent systems can be used to automate many tasks. When combined with RAG, t
 Currently, we have implemented parts such as the Leetcode Solving System, Senior High Question Solving, and more. Multiagent has other applications that enhance automation efficiency, such as AI crawlers disguised as real people, Search The Web, automatic email draft reply robots, stock analysis, and so on. In addition to this, when building Multiagent, we can try to reduce the iterations of its discussions. The current methods for reducing iterations include adding Memory and setting a maximum iteration limit, which are relatively rigid approaches. We will see if CrewAI supports more capabilities that won't forcibly cut off conversations in the future.
 For the RAG (Retrieval-Augmented Generation) part, we can make more variations, such as Self-RAG, which uses algorithms to evaluate the amount of RAG usage, allowing the Agent to assess how much data it should retrieve. Furthermore, we can use Web Search to enable the Agent to choose the most recent few pieces of data to search for, to prevent the Context from being too large and avoid including too much unnecessary information.
 Regarding Streamlit, we can try the Asynchronous functionality, but this feature is still in the experimental stage, so we haven't implemented it yet. The process we use is Sequential to avoid thread errors.
-
-# Code
-
-[https://github.com/yarikama/CrewAI-RAG-----a-demo-of-leetcode-solver](https://github.com/yarikama/CrewAI-RAG-----a-demo-of-leetcode-solver)
 
 # References
 
