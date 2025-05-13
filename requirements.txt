@@ -1,0 +1,14 @@
+crewai
+torch
+langchain
+langgraph
+openai
+requests
+python-dotenv
+langchain-community
+langserve[all]
+playwright
+beautifulsoup4
+langchain_chroma
+pdfplumber
+streamlit
